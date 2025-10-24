@@ -1,5 +1,3 @@
-## README.md
-
 # 🛍️ Shopping Mall Order Management API (Spring Boot Backend)
 
 This is a **RESTful backend service** developed using **Spring Boot 3** for handling core **CRUD (Create, Read, Update, Delete)** operations for an Order Management System. It enforces business rules (like checking order status before cancellation) and connects to a PostgreSQL database.
