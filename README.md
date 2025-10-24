@@ -1,9 +1,3 @@
-That's the final professional touch\! A good **README** is crucial for anyone (including future you) to understand, set up, and run the project.
-
-Here is a comprehensive README.md file tailored specifically for your **Spring Boot Order Management Backend** project.
-
------
-
 ## README.md
 
 # 🛍️ Shopping Mall Order Management API (Spring Boot Backend)
